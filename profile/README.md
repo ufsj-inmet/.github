@@ -1,6 +1,6 @@
-# Projeto StratusNet – Monitoramento Inteligente do Clima
+# INMET-DATA – Monitoramento Inteligente do Clima
 
-O StratusNet é uma solução inovadora para a coleta, armazenamento e visualização de dados meteorológicos em tempo real. Nosso sistema integra estações meteorológicas distribuídas estrategicamente para capturar informações precisas sobre temperatura, umidade, pressão atmosférica, velocidade do vento, precipitação e outros fatores climáticos essenciais.
+O INMET-DATA é uma solução inovadora para a coleta, armazenamento e visualização de dados meteorológicos em tempo real. Nosso sistema integra estações meteorológicas distribuídas estrategicamente para capturar informações precisas sobre temperatura, umidade, pressão atmosférica, velocidade do vento, precipitação e outros fatores climáticos essenciais.
 
 ## Coleta e Processamento de Dados
 
